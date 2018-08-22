@@ -4,12 +4,6 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>hadoop (一)Cloudera Manager一键安装</title>
-<link rel="stylesheet" href="https://csdn.net/res-min/themes/base.css" />
-<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
-<script type="text/x-mathjax-config">
-MathJax.Hub.Config({ TeX: { equationNumbers: {autoNumber: "all"},extensions: ["AMSmath.js","AMSsymbols.js","noErrors.js","noUndefined.js"] } });
-</script>
 </head>
 <body><div class="container"><h2 id="hadoop-一cloudera-manager一键安装">hadoop (一)Cloudera Manager一键安装</h2>
 
