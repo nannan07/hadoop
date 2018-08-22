@@ -5,7 +5,9 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
-<body><div class="container"><h2 id="hadoop-一cloudera-manager一键安装">hadoop (一)Cloudera Manager一键安装</h2>
+<body>
+    <div class="container">
+        <a href='https://blog.csdn.net/weixin_40783112/article/details/81943573'><h2 id="hadoop-一cloudera-manager一键安装">hadoop (一)Cloudera Manager一键安装</h2><a>
 
 
 
@@ -157,12 +159,7 @@ chkconfig httpd on
 </code></pre>
 
 <p>然后，http默认是将文件全部放在/var/www/html/下的： <br>
-<img src="https://img-blog.csdn.net/20180822141742795?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDc4MzExMg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" alt="这里写图片描述" title=""></p>
-
 <p>这里，把cm相关的包放在cm目录下，把相关的常用包放在iso下，把升级包放在parcels下，然后启动服务后直接在浏览器中便可访问，如下 <br>
-<img src="https://img-blog.csdn.net/20180822141840589?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDc4MzExMg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" alt="<code>这里写图片描述</code>" title=""></p>
-
-
 
 <h4 id="七分发yum配置文件">七、分发yum配置文件</h4>
 
@@ -252,10 +249,10 @@ service cloudera-scm-server start</p>
 
 <h4 id="十一添加安装服务并调整相应的配置">十一、添加安装服务并调整相应的配置</h4>
 
-<p><img src="https://img-blog.csdn.net/20180822142634998?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDc4MzExMg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" alt="这里写图片描述" title=""> <br>
+<p>
 cm中可以添加很多服务，我们可以选择需要的服务先安装，之后也可以新增服务。  <br>
 最好服务都成功后，并按照提示修改下相应的配置，便可看到： <br>
-<img src="https://img-blog.csdn.net/20180822142722464?watermark/2/text/aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MDc4MzExMg==/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70" alt="这里写图片描述" title=""> <br>
+ <br>
 在cm可以修改对于服务的配置文件，还可以执行命令，还可以监控服务等</p>
 
 <p>⚠️服务器不同，配置环境不同，过程中会有相应的问题，如果过程中有维提岛的问题，自行百度解决</p></div></body>
