@@ -1,3 +1,6 @@
+每次要找一个jdk的版本的时候， 总是在sun的官网转得晕头转向也找不到，其它网站的又不敢下，终于不知道在那里点到了archrive（档案库），记录下来，sun的各java产品的各个版本都全 
+http://java.sun.com/products/archive/
+
 1,<a href = "https://github.com/nannan0713/hadoop/blob/master/Cloudera%20Manager%E4%B8%80%E9%94%AE%E5%AE%89%E8%A3%85.md"  >hadoop (一)Cloudera Manager一键安装</a></br>
 2,<a href = "https://blog.csdn.net/qiyongkang520/article/details/50988496"  >hadoop （二）如何编写MR以及运行测试</a></br>
 3,<a href = "https://blog.csdn.net/qiyongkang520/article/details/50993313"  >hadoop（三）java实现上传文件（本地或ftp）至hdfs</a></br>
