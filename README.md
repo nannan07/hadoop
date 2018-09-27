@@ -14,3 +14,6 @@ http://java.sun.com/products/archive/
 10,<a href = "https://blog.csdn.net/qiyongkang520/article/details/51125592"  >hadoop （十）MR将结果输出到hbase</a></br>
 11,<a href = "https://blog.csdn.net/qiyongkang520/article/details/51137044"  >hadoop（十一）Zookeeper的简单使用</a></br>
 12,<a href = "https://blog.csdn.net/qiyongkang520/article/details/51320795">hadoop（十二）cloudera manager的简单使用</a></br>
+
+
+https://blog.csdn.net/chenhai201/article/details/78856007
